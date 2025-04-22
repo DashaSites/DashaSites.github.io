@@ -1,10 +1,7 @@
-### Nerds: a landing page for a web design company
-A static multipage website with interactive filters and a contact form.
+### Nerds project – GitHub Pages deployment repo
 
-🔗  [Live demo](https://dashasites.github.io/)
+This repository exists only for deployment via GitHub Pages.  
+The actual codebase is located here:  
+👉 [1445993-nerds-28](https://github.com/DashaSites/1445993-nerds-28)
 
-#### Technologies:
-- HTML
-- CSS
-- JavaScript
-- Figma
+🔗 [Live demo](https://dashasites.github.io/)
